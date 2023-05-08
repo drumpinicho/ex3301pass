@@ -1,4 +1,4 @@
-	 **Admin/root password extract on Zyxel EX3301-T0**
+**Admin/root password extract on Zyxel EX3301-T0**
  
  
  
